@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Queene Elizabeths speech to her last Parliament.</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84365</idno>
+            <idno type="STC">Wing E534</idno>
+            <idno type="STC">STC 7579.3</idno>
+            <idno type="STC">Thomason E200_15</idno>
+            <idno type="STC">ESTC R12587</idno>
+            <idno type="EEBO-CITATION">99859304</idno>
+            <idno type="PROQUEST">99859304</idno>
+            <idno type="VID">157556</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84365)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157556)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E200[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Queene Elizabeths speech to her last Parliament.</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>[8] p., 1 leaf of plates : port. (metal cut)  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The speech of 30 November 1601.</note>
+                  <note>Place of publication from Wing. Thomason's copy is bound with items from 1642.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>One of four undated editions, none of them contemporary with the speech. In this edition the "A" of signature-mark A3 is under the "k" of "knowes".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:157556:1"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Queen Elizabeth I of England (1533-1603) supported by the English royal lion on the left and the Welsh dragon on the right, symbolizing that she was queen of England and Wales</figDesc>
+                  <p>UERA EFFIGIES PRUDENTISSIMAE PRINCIPIS ELIZABETHAE ANGLIAE FRANCIAE ET HIBE: REGINAE. ETc.</p>
+                  <figure>
+                     <q xml:lang="frm">HONY SOI<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> MAL Y PNSE</q>
+                     <figDesc>depiction of the English royal blazon from 1558-1603 (actually the arms of King Henry IV of England, 1366-1413, restored by Queen Elizabeth) surmounted by a crown</figDesc>
+                  </figure>
+                  <figure>
+                     <q xml:lang="lat">SEMPER EADEM</q>
+                     <figDesc>depiction of a blazon with the Welsh dragon surrounded by the personal motto of Queen Elizabeth I</figDesc>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:157556:1"/>
+            <p>QVEENE ELIZABETHS SPEECH TO HER LAST <hi>PARLIAMENT.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:157556:2"/>
+            <pb facs="tcp:157556:2"/>
+            <head>The 30 of November 1601, her Maieſtie being ſet vnder State in the Councell Chamber at Whitehall, the Speaker, ac<g ref="char:EOLhyphen"/>companied with Privy Councellours, be<g ref="char:EOLhyphen"/>ſides Knights and Burgeſſes of the lower Houſe to the number of eight-ſcoore, pre<g ref="char:EOLhyphen"/>ſenting themſelues at her Maieſties feet, for that ſo graciouſly and ſpeedily ſhee had heard and yeelded to her Sub<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ects deſires, and proclaimed the ſame in their bearing as followeth.</head>
+            <opener>
+               <salute>Mr. <hi>Speaker,</hi>
+               </salute>
+            </opener>
+            <p>VVEE perceiue your comming is to preſent thankes vnto Vs<g ref="char:punc">▪</g> Know I accept them with no leſſe ioy then your loues can haue deſire to offer ſuch a Pre<g ref="char:EOLhyphen"/>ſent, and doe more eſteeme it then any Trea<g ref="char:EOLhyphen"/>ſure or Riches, for thoſe Wee know how to prize, but Loyaltie, Loue, and Thankes, I ac<g ref="char:EOLhyphen"/>count them invaluable; and though God hath rayſed Mee high, yet this I account the glorie of my Crowne, that I have reigned with your Loues. This makes that I doe not ſo much reioyce that God hath made Mee to bee a
+<pb facs="tcp:157556:3"/> Queene, as to bee a Queene ouer ſo thankefull a People, and to bee the meane vnder God to conſerue you in ſafety, and preſerue you from danger, yea to bee the Inſtrument to deliuer you from diſhonour, from ſhame, and from infamie; to keepe you from out of ſeruitude, and from ſlaverie vnder our Enemies, and cruell tyranny, and vilde oppreſſion intended againſt Vs: for the better withſtanding wher<g ref="char:EOLhyphen"/>of, Wee take very acceptably your intended helpes, and chiefely in that it manifeſteth your loues and largeneſſe of heart to your Sove<g ref="char:EOLhyphen"/>raigne. Of My ſelfe I muſt ſay this, I neuer was any greedy ſcraping graſper, nor a ſtrict faſt-holding Prince, nor yet a waſter, My heart was neuer ſet vpon any worldly goods, but onely for my Subiects good. What you doe beſtow on Me, I will not hoard vp, but receiue it to beſtow on you againe; yea Mine owne Properties I account yours to bee expended for your good, and your eyes ſhall ſee the be<g ref="char:EOLhyphen"/>ſtowing of it for your wellfare.</p>
+            <p>M<hi rend="sup">r</hi>. <hi>Speaker,</hi> I would wiſh you and the reſt to ſtand vp, for I feare I ſhall yet trouble you with longer ſpeech.</p>
+            <p>M<hi rend="sup">r</hi>. <hi>Speaker,</hi> you give me thankes, but I am more to thanke you, and I charge you, thanke them of the Lower-Houſe from Me, for had I not received knowledge from you, I might a fallen into the lapſe of an Error, onely for want of true information.</p>
+            <p>Since I was Queene yet did I neuer put My
+<pb facs="tcp:157556:3"/> Pen to any Grant but vpon pretext and ſem<g ref="char:EOLhyphen"/>blance made Me, that it was for the good an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> availe of my Subiects generally, though a private profit to ſome of my ancient Servants who have deſerved well: But that my Grants ſhall bee made Grievances to my People, and Oppreſſions, to bee priviledged vnder colour of Our Pattents, Our Princely Dignitie ſhall not ſuffer it.</p>
+            <p>When I heard it, I could give no reſt vnto my thoughts vntill I had reformed it, &amp; thoſe Varlets, lewd perſons, abuſers of my bountie, ſhall know I wil not ſuffer it. And M<hi rend="sup">r</hi>. <hi>Speaker,</hi> tell the Houſe from mee, I take it exceeding gratefull, that the knowledge of theſe things are come vnto mee from them. And though amongſt them the principall Members are ſuch as are not touched in private, and there<g ref="char:EOLhyphen"/>fore need not ſpeake from any feeling of the griefe, yet We haue heard that other Gentle<g ref="char:EOLhyphen"/>men alſo of the Houſe, who ſtand as free, haue ſpoken as freely in it; which giues Vs to know that no reſpects or intreſts haue moved them other then the mindes they beare to ſuffer no diminution of our Honour, and our Subiects loue vnto Vs. The zeale of which affection tending to eaſe my People, &amp; knit their hearts vnto vs, I embrace with a Princely care farre aboue all earthly Treaſures. I eſteeme my Peoples loue, more then which I deſire not to merit: And God that gaue me here to ſit, and placed mee ouer you, knowes that I neuer re<g ref="char:EOLhyphen"/>ſpected
+<pb facs="tcp:157556:4"/> my ſelfe, but as your good was conſer<g ref="char:EOLhyphen"/>ued in mee; yet what dangers, what practiſes, and what perills I have paſſed, ſome, if not all of you know: but none of theſe things doe mooue mee, or euer made mee feare, but it is God that hath delivered me.</p>
+            <p>And in my gouerning this Land, I haue euer ſet the laſt Iudgement day before mine eyes, and ſo to rule, as I ſhall be Iudged and anſwer before a higher Iudge, to whoſe Iudgement Seat I doe appeale in that neuer thought was cheriſhed in my heart that tended not to my Peoples good.</p>
+            <p>And if my Princely bountie haue beene abuſed, and my Grants turned to the hurt of my People contrary to my will and meaning, or if any in Authoritie vnder mee haue negle<g ref="char:EOLhyphen"/>cted, or converted what I haue committed vnto them, I hope God will not lay their culps to my charge.</p>
+            <p>To be a King, and weare a Crown, is a thing more glorious to them that ſee it, then it is pleaſant to them that beare it: for my ſelfe, I neuer was ſo much inticed with the glorious name of a King, or the royall authoritie of a Queene, as delighted that God hath made me His Inſtrument to maintaine His Truth and Glorie, and to defend this Kingdome from diſhonour, dammage, tyrannie, and oppreſſi<g ref="char:EOLhyphen"/>on. But ſhould I aſcribe any of theſe things vnto my ſelfe, or my ſexly weakeneſſe, I were not worthy to liue, and of all moſt vnworthy
+<pb facs="tcp:157556:4"/> of the mercies I haue receiued at Gods hands but to God onely and wholly all is giuen and aſcribed.</p>
+            <p>The cares and trouble of a Crowne I can<g ref="char:EOLhyphen"/>not more fitly reſemble then to the Drugges of a learned Phyſitian, perfumed with ſome Aromaticall ſauour, or to bitter Pils guilded ouer, by which they are made more excepta<g ref="char:EOLhyphen"/>ble or leſſe offenſiue, which indeed are bitter and vapleaſant to take; and for my owne part, were it not for Conſcience ſake to diſcharge the dutie that God hath layd vpon me, and to maintaine his glorie, and keepe you in ſafetie, in mine owne diſpoſition I ſhould be willing to reſigne the place I hold to any other, and glad to be freed of the Glory with the Labors, for it is not my deſire to liue nor to reign lon<g ref="char:EOLhyphen"/>ger then my life and reigne ſhall bee for your good. And though you haue had and may haue many mightier and wiſer Princes ſitting in this Seat, yet you neuer had nor ſhall haue any that will loue you better.</p>
+            <p>Thus M<hi rend="sup">r</hi>. <hi>Speaker,</hi> I commend mee to your loyall Loues, and yours to my beſt care and your further Councels, &amp; I pray you M<hi rend="sup">r</hi>. <hi>Con<g ref="char:EOLhyphen"/>troullor,</hi> &amp; M<hi rend="sup">r</hi>. <hi>Secretary,</hi> and you of my Coun<g ref="char:EOLhyphen"/>cell, that before theſe Gentlemen depart into their Countreys you bring them all to kiſſe my Hand.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
